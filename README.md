@@ -9,3 +9,5 @@ and a Boolean representing if this letter is the end of a word.
 The SpellingTree class implements a tree of SpellingNodes.
 
 The SpellChecker class runs the whole program utilizing the above classes.
+
+Also included are the I/O files for you to test the program if you wish, just be sure to pop the files (not the zip) into the main directory for where you run the project!
